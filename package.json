@@ -1,24 +1,21 @@
 {
   "name": "techhive",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
-<<<<<<< HEAD
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vishnuvardhan369/techHive.git"
-=======
+    "start": "node server.js",
     "test": "echo Skipping test"
->>>>>>> 7b413cd395bf4bf247c865ed1805030fac43bab0
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuvardhan369/techHive.git"
+  },
   "bugs": {
     "url": "https://github.com/vishnuvardhan369/techHive/issues"
   },
-  "homepage": "https://github.com/vishnuvardhan369/techHive#readme",
-  "description": ""
+  "homepage": "https://github.com/vishnuvardhan369/techHive#readme"
 }
