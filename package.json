@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vishnuvardhan369/techHive.git"
+=======
+    "test": "echo Skipping test"
+>>>>>>> 7b413cd395bf4bf247c865ed1805030fac43bab0
   },
   "keywords": [],
   "author": "",
